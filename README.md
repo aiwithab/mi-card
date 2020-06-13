@@ -6,7 +6,7 @@ I wanted to make a contact card app and using the app in my pocket, I’ll be ab
 
 ## What I created
 
-![Finished App]()
+![Finished App](https://github.com/aiwithab/mi-card/blob/master/screenshots/mi-card-screen.png)
 
 ## What I have learned
 
