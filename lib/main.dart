@@ -99,6 +99,16 @@ class MiCard extends StatelessWidget {
                 ),
               ),
             ),
+
+            Card(
+              margin: EdgeInsets.symmetric(vertical: 10.0,horizontal: 20.0),
+              color: Color(0xffdbe2e8),
+              child: Padding(
+                padding: const EdgeInsets.all(10.0),
+                child: Image.asset('assets/images/mobile-qr-code.png'),
+              )
+            ),
+
           ],
         ),
       ),
